@@ -25,14 +25,3 @@ The application enforces strict SOLID principles and Separation of Concerns:
 * `factory/` - Complex object instantiation logic.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-* Java Development Kit (JDK) 8 or higher.
-
-### Compilation & Execution
-1. Clone the repository or download the source code.
-2. Navigate to the `src` directory in your terminal:
-   ```bash
-   cd src
